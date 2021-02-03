@@ -1,0 +1,34 @@
+body {
+    font-family: 'Lato', sans-serif;
+    padding: 10px 15px;
+    border-radius: 25px;
+    border: 15px solid #BDC3C7;
+    margin: 10px 60px;
+}
+
+h2 {
+    font-weight: 700;
+    letter-spacing: 3.2px;
+    font-size: 48px;
+    color: #3D3D3D;
+}
+
+#date {
+    color: #3498DB;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+#first, #second, #fourth, #fifth {
+    padding: 10px;
+    border-bottom: 5px solid #BDC3C7;
+}
+
+#third {
+    padding: 10px;
+    border-bottom: 10px solid #BDC3C7;
+}
+
+#first, #second, #third, #fourth, #fifth, #sixth {
+    text-align: right;
+}
